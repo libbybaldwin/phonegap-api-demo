@@ -1,19 +1,16 @@
 MDS PhoneGap API Demo
 ====================
 
-February 6, 2012
-------------
+## February 6, 2012
  * PhoneGap v1.4.0 - all APIs implemented
  * Media queries for multiple screen sizes
  * For Android 2.1+ and 3.0+ Phones or Tablets
 
-Instructions for [AppLaud Cloud](http://applaudcloud.com)
--------------
+## Instructions for [AppLaud Cloud](http://applaudcloud.com)
  * Download zip file
  * New > Import Project (and select zip file)
 
-Instructions for [AppLaud Eclipse Plugin for PhoneGap / Android](http://www.mobiledevelopersolutions.com)
--------------
+## Instructions for [AppLaud Eclipse Plugin for PhoneGap / Android](http://www.mobiledevelopersolutions.com)
  * *COMING SOON* This app will be the default PhoneGap API Demo project in AppLaud Eclipse
  * Download zip file
  * Project Creation Wizard
@@ -22,8 +19,7 @@ Instructions for [AppLaud Eclipse Plugin for PhoneGap / Android](http://www.mobi
  * AND Select "Pure Import"
  * From unzipped bundle, enter "assets/www/" as location
 
-Other Versions
----------------
+## Other Versions
  * [PhoneGap API Demo with jQuery Mobile](https://github.com/libbybaldwin/phonegap-api-demo-jquery-mobile)
 
 Mobile Developer Solutions’ [AppLaud](http://www.mobiledevelopersolutions.com) (Open Source Eclipse Plugin for PhoneGap / Android) enables web developers to start developing for the mobile web quickly in a hybrid Java/JavaScript environment. 
@@ -34,7 +30,6 @@ MDS PhoneGap API Demo by Mobile Developer Solutions and its contents available u
 
 The MIT License
 ----------------
-
 Copyright (c) 2012 Mobile Developer Solutions
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
