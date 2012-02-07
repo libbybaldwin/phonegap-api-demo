@@ -21,8 +21,9 @@ function onBackbutton() {
     // the intro div is considered home, so exit if user
     // wants to go back with button from there
     if (document.getElementById('api-intro').style.display === 'block') {
-        console.log("Exiting app");
-        navigator.app.exitApp();
+	// Removed for AppLaud Cloud Project Run. Add back in for AppLaud Eclipse or AppLaud Cloud Download
+        //console.log("Exiting app");
+        //navigator.app.exitApp();
     } else {    
         var divs = document.getElementsByClassName('api-div');   
         for(var i=0; i<divs.length; i++) { 
