@@ -11,13 +11,8 @@ MDS PhoneGap API Demo
  * New > Import Project (and select zip file)
 
 ## Instructions for [AppLaud Eclipse Plugin for PhoneGap / Android](http://www.mobiledevelopersolutions.com)
- * **COMING SOON** This app will be the default PhoneGap API Demo project in AppLaud Eclipse
- * Download zip file
- * Project Creation Wizard
- * Select "Use Build-in PhoneGap"
- * Select "Create project from specified source directory"
- * AND Select "Pure Import"
- * From unzipped bundle, enter "assets/www/" as location
+ * This is the default PhoneGap API Demo project in AppLaud Eclipse
+ * Select **Use PhoneGap example source as template for project** in project creation wizard
 
 ## Other Versions
  * [PhoneGap API Demo with jQuery Mobile](https://github.com/libbybaldwin/phonegap-api-demo-jquery-mobile)
