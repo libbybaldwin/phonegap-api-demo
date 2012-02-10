@@ -1,8 +1,6 @@
 MDS PhoneGap API Demo
 ====================
-
-## February 6, 2012
- * PhoneGap v1.4.0 - all APIs implemented
+ * PhoneGap v1.4.1 - all APIs implemented
  * Media queries for multiple screen sizes
  * For Android 2.1+ and 3.0+ Phones or Tablets
 
