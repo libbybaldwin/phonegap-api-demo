@@ -7,11 +7,11 @@ MDS PhoneGap API Demo
  * For Android 2.1+ and 3.0+ Phones or Tablets
 
 ## Instructions for [AppLaud Cloud](http://applaudcloud.com)
- * Download zip file
- * New > Import Project (and select zip file)
+ * *This is the default PhoneGap API Demo and Template in AppLaud Cloud Alpha 3*
+ * **Or** Download zip file, in AppLaud Cloud: New > Import Project (and select zip file)
 
 ## Instructions for [AppLaud Eclipse Plugin for PhoneGap / Android](http://www.mobiledevelopersolutions.com)
- * This is the default PhoneGap API Demo project in AppLaud Eclipse
+ * *This is the default PhoneGap API Demo project in AppLaud Eclipse v1.2.7*
  * Select **Use PhoneGap example source as template for project** in project creation wizard
 
 ## Other Versions
