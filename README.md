@@ -21,6 +21,8 @@ Newly released cloud-based IDE, MDS AppLaud Cloud, enables PhoneGap development 
 
 MDS PhoneGap API Demo by Mobile Developer Solutions and its contents available under the terms of the MIT License 2008. Some modules may not be the copyright of Mobile Developer Solutions. These modules contain explicit declarations at their source of origin and in the code itself. No external contributions are allowed under licenses which are fundamentally incompatible with the MIT license that GMap Demo is distributed under.
 
+Portions of source code and documentation in this app are licensed under PhoneGap's [Apache License](http://phonegap.com/about/license).
+
 The MIT License
 ----------------
 Copyright (c) 2012 Mobile Developer Solutions
